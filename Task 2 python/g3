@@ -1,0 +1,12 @@
+A->S
+S->TM
+M->@|;S
+T->i=E
+E->RX
+X->+RX|-RX|@
+R->PK
+K->*PK|/PK|@
+P->UW
+W->^P|@
+U->-U|+U|F
+F->(E)|i|n
